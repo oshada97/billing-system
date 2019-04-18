@@ -1,2 +1,2 @@
 # billing-system
-billing system for SE project.
+Billing system for SE project.
